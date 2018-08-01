@@ -1,0 +1,12 @@
+/************************************************************
+************************************************************/
+■shader mode x shadow, Light
+	cf:Shader_x_Shadow.xlsx
+	
+■unlit でcast shadow
+	Unlit_Transparent_Cutout_shadow.shader
+	Unlit_Transparent_shadow.shader
+
+■unlitでReceive shadow
+	対応案が見つからなかった。
+	
